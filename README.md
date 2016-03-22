@@ -1,7 +1,7 @@
 # Computer Science Education in Ontario
 A collection of links relating to Computer Science Education (CSE) in Ontario, Canada. Includes links relating to the theory as well as course guidelines at the secondary and post-secondary education levels.
 
-Some university programmes, such as the one at [Brock University](https://discover.brocku.ca/programs/#fms) strongly recommends students take **ICS4U** while other programmes assume no computer background before entry into the program.
+Some university programmes, such as the one at [Brock University](https://discover.brocku.ca/programs/#fms) strongly recommends students take **ICS4U** while other institutions assume no computer background before entry into the programme.
 
 ## Secondary Education (High School)
 The Ontario high school curriculum is divided into course categories that will help students acheive their educational goals depending on if they want to continue on to university, college, or simply learn a bit more to become useful in society, or as a hobby.
