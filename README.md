@@ -8,7 +8,7 @@ The Ontario high school curriculum is divided into course categories that will h
 
 [The Ontario Curriculum, Grades 10 to 12: Computer Studies, 2008 (revised)](http://www.edu.gov.on.ca/eng/curriculum/secondary/computer.html)
 
-The Computer Science Curriculum is divided into the following course codes:
+The Computer Studies Curriculum is divided into the following course codes:
 * **O (Open)** - Open selection for students not planning for students to continue their education.
 * **C (College)** - College preparation for students continuing on into college.
 * **U (University)** - University preparation for students contining on into unviersity.
